@@ -1,7 +1,5 @@
 # TSP Genetic Algorithm - Larrañaga et al. (1999) Implementation
 
-Implementação fiel em Rust do Algoritmo Genético para o Problema do Caixeiro Viajante (TSP) baseada na **configuração campeã** do paper de Larrañaga et al. (1999).
-
 ## 📖 Referência
 
 > **P. Larrañaga, C.M.H. Kuijpers, R.H. Murga, I. Inza, S. Dizdarevic**  
